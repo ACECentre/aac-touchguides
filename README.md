@@ -5,7 +5,7 @@ I've also created a repository for [keyguards](https://github.com/paulhewett/aac
 
 This is a hardware, not a software repository. I've included for most touch guides a dxf file that can be used to manufacture the touch guide using a CNC machine. For some, I've also included an stl file and an image. It is normally clear which device the touch guide is for by the folder name.
 
-These touch guides have been designed to be manufactured on a CNC machine. We would typically use 2mm thick PET_G material for its durability and better chemcial resistance. We find it to be very scratch resistant. Typically, a chamfer would be added to the edge of each key at 45 degrees to remove the edge, typically to a depth of almost half the material thickness.
+These touch guides have been designed to be manufactured on a CNC machine. We would typically use 2mm thick PET-G material for its durability and better chemcial resistance. We find it to be very scratch resistant. Typically, a chamfer would be added to the edge of each key at 45 degrees to remove the edge, typically to a depth of almost half the material thickness.
 
 The dxf files can be used to laser cut a touch guide in alternative materials, such as acrylic. Laser cutting of plastics does produced a cleaner, almost polished edge, but you cannot chamfer the edges to reduce their sharpness.
 
